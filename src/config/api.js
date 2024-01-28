@@ -1,6 +1,6 @@
 
 import axios from 'axios';
-const LOCALHOST='https://springbootecommerce-production.up.railway.app/'
+const LOCALHOST='https://springbootecommerce-production.up.railway.app'
 
 export const API_BASE_URL = LOCALHOST
 
