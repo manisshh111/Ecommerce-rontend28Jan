@@ -1,7 +1,7 @@
 import React from "react";
-import HomeCarousel from "../customer/Components/Carousel/HomeCarousel";
-import { homeCarouselData } from "../customer/Components/Carousel/HomeCaroselData";
-import HomeProductSection from "../customer/Components/Home/HomeProductSection";
+import HomeCarousel from "../customer/components/Carousel/HomeCarousel";
+import { homeCarouselData } from "../customer/components/Carousel/HomeCaroselData";
+import HomeProductSection from "../customer/components/Home/HomeProductSection";
 import { sareePage1 } from "../Data/Saree/page1";
 import { dressPage1 } from "../Data/dress/page1";
 import { gounsPage1 } from "../Data/Gouns/gouns";
